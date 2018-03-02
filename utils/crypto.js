@@ -8,5 +8,6 @@ let md5 = function(str) {
 };
 
 module.exports = {
-  md5: md5
+  md5: md5,
+  test: '123'
 };
